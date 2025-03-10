@@ -15,10 +15,10 @@ Em seguida instalar o __Gitub Desktop__ para facilitar o envio
 
 lembre de deixar público
 
-# criando projeto com react com NextJS ´
+# criando projeto com react com NextJS 
 para criar um novo projeto em react usando NextJs, Faça:
 1. Abra o _cmd_ na pasta que deseja e rode o comando 'npx create-next-app'
-2. marque o Typescript como não e os demais padrão
+2. marque o _Typescript_  como não e os demais padrão
 
 
 para rodar use o npm run dev
