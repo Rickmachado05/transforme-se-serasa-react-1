@@ -27,7 +27,7 @@ import { ToastContainer, toast } from 'react-toastify';
 
     }
 
-    
+    //A///
     return (
         <div>
             <h1>Contato</h1>
@@ -53,7 +53,10 @@ import { ToastContainer, toast } from 'react-toastify';
         
     </form>
     
-
+    <div>
+        <button onClick={notify}>Notify!</button>
+        <ToastContainer />
+      </div>
     
             </div>
 
