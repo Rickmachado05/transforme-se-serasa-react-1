@@ -1,0 +1,9 @@
+.erro2{
+    color: #ffffff;
+    background-color: red;
+    padding: 10px;
+}
+
+.erro1{
+    visibility: hidden;
+}
